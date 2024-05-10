@@ -17,7 +17,7 @@ import javax.swing.JTextField;
 
 /**
  *
- * @author mario
+ * @author mario, Yanick
  */
 public class Main {
 
